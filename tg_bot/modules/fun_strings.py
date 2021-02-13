@@ -218,21 +218,21 @@ HIT = (
 )
 
 ABUSE_STRINGS = (
-    "Fuck off",
-    "Stfu go fuck yourself",
-    "Ur mum gey",
-    "Ur dad lesbo",
-    "Bsdk",
-    "Nigga",
-    "Ur granny tranny",
-    "you noob",
+    "Ith nalla myran🤣",
+    "Maari iri myre 😚",
+    "Umbi umbi umbi",
+    "Mowne poratt erachi vangi thara",
+    "Ijjathi myran",
+    "Ambadi malare",
+    "Abuse naale aavate🙄",
+    "you pro run myr",
     "Relax your Rear,ders nothing to fear,The Rape train is finally here",
-    "Stfu bc",
-    "Stfu and Gtfo U nub",
-    "GTFO bsdk",
-    "CUnt",
-    " Gay is here",
-    "Ur dad gey bc ",
+    "Magandi poyi vazhak kuzhi kuth",
+    "Ayinu ippo nna myra",
+    "Poda myre",
+    "Vazheeeee",
+    " U gay meler",
+    "Oodi va myre chaadi po myre ",
 )
 
 EYES = [
